@@ -45,7 +45,7 @@ ok P7 B5
 
 Observations
 
-- Bed leveling in-active
+- Bed leveling inactive
 - No mesh loaded
 - Fade height is 0 mm
 - Needs to be homed
