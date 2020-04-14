@@ -42,5 +42,6 @@ A zip bundle of files for adding the MP10 to your slicer.
 
 ### Detailed help
 
+* `MP10-stock-auto-leveling.md` -- _observation and analysis of MP10 auto leveling_
 * `slicer-settings-generic.txt` -- _plain text `key = value` pairs of settings for the MP10's size and kinematics_
 * `troubleshooting-and-diagnostics.md` -- _FAQs, firmware and hardware information_
