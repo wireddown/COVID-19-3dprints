@@ -29,7 +29,7 @@ During a print, the firmware reports the system's temperatures, and those messag
 
 ### Getting information about the firmware
 
-> :note: If you don't already have a favorite serial communication program, consider installing the [Arduino Desktop IDE](https://www.arduino.cc/en/Guide/HomePage), which includes a [Serial Monitor](https://learn.sparkfun.com/tutorials/terminal-basics/arduino-serial-monitor-windows-mac-linux) utility that can connect to the MP10.
+> ℹ️ If you don't already have a favorite serial communication program, consider installing the [Arduino Desktop IDE](https://www.arduino.cc/en/Guide/HomePage), which includes a [Serial Monitor](https://learn.sparkfun.com/tutorials/terminal-basics/arduino-serial-monitor-windows-mac-linux) utility that can connect to the MP10.
 
 1. Remove the SD card from the MP10.
 1. Connect your laptop to the MP10 with USB.
